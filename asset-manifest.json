@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/frankeys-friends/static/css/main.6fff35bb.chunk.css",
+    "main.js": "/frankeys-friends/static/js/main.28fe06f9.chunk.js",
+    "main.js.map": "/frankeys-friends/static/js/main.28fe06f9.chunk.js.map",
+    "runtime-main.js": "/frankeys-friends/static/js/runtime-main.57e50188.js",
+    "runtime-main.js.map": "/frankeys-friends/static/js/runtime-main.57e50188.js.map",
+    "static/js/2.c3776a56.chunk.js": "/frankeys-friends/static/js/2.c3776a56.chunk.js",
+    "static/js/2.c3776a56.chunk.js.map": "/frankeys-friends/static/js/2.c3776a56.chunk.js.map",
+    "index.html": "/frankeys-friends/index.html",
+    "precache-manifest.9ab5ec87440287b53c1fb4f8fa7e441d.js": "/frankeys-friends/precache-manifest.9ab5ec87440287b53c1fb4f8fa7e441d.js",
+    "service-worker.js": "/frankeys-friends/service-worker.js",
+    "static/css/main.6fff35bb.chunk.css.map": "/frankeys-friends/static/css/main.6fff35bb.chunk.css.map",
+    "static/js/2.c3776a56.chunk.js.LICENSE": "/frankeys-friends/static/js/2.c3776a56.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57e50188.js",
+    "static/js/2.c3776a56.chunk.js",
+    "static/css/main.6fff35bb.chunk.css",
+    "static/js/main.28fe06f9.chunk.js"
+  ]
+}
